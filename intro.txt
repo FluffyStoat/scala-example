@@ -1,0 +1,8 @@
+This is calculator application:
+
+1. For exit enter "exit" command
+2. For summing enter "add" command
+3. For subtraction enter "sub" command
+4. For multiplication enter "mul" command
+5. For division enter "div" command
+6. For raw expression enter "raw" command
